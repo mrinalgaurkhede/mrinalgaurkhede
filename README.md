@@ -4,6 +4,13 @@
 
 ---
 
+## 🤝 Connect
+
+- 💼 LinkedIn: [www.linkedin.com/in/mrinal-gaurkhede-6a488a285]()
+- 📧 Email: mrinaldeepakgaurkhede@gmail.com
+
+---
+
 ## About Me
 Computer Engineering student passionate about technology,innovation, and problem-solving. Skilled in Python, SQL, Data Analytics, and Cloud Technologies, with a strong interest in Artificial Intelligence ad building impactful software solutions.
 
@@ -66,13 +73,6 @@ A data analytics and machine learning project that processes large-scale player 
 - Combined statistical analysis with machine learning for a complete end-to-end analytics solution
 
 **Tech used:** Python, SQL, Excel, Power BI, Pandas, NumPy, Scikit-learn, Machine Learning, Data Visualization
-
----
-
-## 🤝 Connect
-
-- 💼 LinkedIn: [www.linkedin.com/in/mrinal-gaurkhede-6a488a285]()
-- 📧 Email: mrinaldeepakgaurkhede@gmail.com
 
 ---
 
