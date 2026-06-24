@@ -71,7 +71,7 @@ A data analytics and machine learning project that processes large-scale player 
 
 ## 🤝 Connect
 
-- 💼 LinkedIn: [linkedin.com/in/your-profile]()
+- 💼 LinkedIn: [www.linkedin.com/in/mrinal-gaurkhede-6a488a285]()
 - 📧 Email: mrinaldeepakgaurkhede@gmail.com
 
 ---
