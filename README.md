@@ -1,4 +1,4 @@
-# Hi, I'm Mrinal Gaurkhede 👋
+# Mrinal Gaurkhede 
 
 🎓 Engineering Student | 📊 Aspiring Data Analyst | ☁️ AWS & AI Enthusiast
 
